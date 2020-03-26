@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/blog-index.jpg
-heading: Great coffee with a conscience1
+heading: Отличный кофе на совесть!
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
